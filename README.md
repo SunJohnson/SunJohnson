@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SunJohnson
 - 👀 I’m interested in Programming in different languages
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and teach at a local college
 - 💞️ I’m looking to collaborate in companies with highly loaded systems
 - 📫 How to reach me sunjonson@yandex.ru
 
